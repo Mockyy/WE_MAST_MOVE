@@ -7,5 +7,7 @@ là où il faut les placer.
 
 
 Controles : 
+
 ZQSD : déplacement
+
 E : prendre et lâcher un objet
